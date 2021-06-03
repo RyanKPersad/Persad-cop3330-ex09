@@ -1,6 +1,5 @@
 package Paint_Calc;
 import java.util.Scanner;
-import java.lang.Math;
 /**
  *
  */
@@ -19,7 +18,7 @@ public class App
         length = myObj.nextLine();
         System.out.println( "Enter width" );
         width = myObj.nextLine();
-        
+
         //String conversion
         int newLength = Integer.parseInt(length);
         int newWidth = Integer.parseInt(width);
