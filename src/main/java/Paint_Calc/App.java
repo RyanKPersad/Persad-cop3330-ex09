@@ -1,8 +1,11 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Ryan Persad
+ */
 package Paint_Calc;
 import java.util.Scanner;
-/**
- *
- */
+
+
 public class App 
 {
     static final int gallon = 350;
